@@ -1,0 +1,13 @@
+{
+  "name": "debug-list",
+  "version": "1.0.0",
+  "description": "Small utility for managing multiple visionmedia/debug",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Ray Hwang",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^2.1.1"
+  }
+}
