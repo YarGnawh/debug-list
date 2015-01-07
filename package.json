@@ -2,12 +2,24 @@
   "name": "debug-list",
   "version": "1.0.0",
   "description": "Small utility for managing multiple visionmedia/debug",
-  "main": "index.js",
-  "scripts": {
-  },
   "author": "Ray Hwang",
+  "keywords": [
+    "debug",
+    "log"
+  ],
+  "main": "index.js",
+  "scripts": {},
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YarGnawh/debug-list"
+  },
+
   "dependencies": {
-    "debug": "^2.1.1"
+    "debug": "^2.1.1",
+    "util": "^0.10.3"
+  },
+  "browserDependencies": {
+
   }
 }
